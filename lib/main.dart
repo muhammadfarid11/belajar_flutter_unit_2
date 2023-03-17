@@ -1,3 +1,4 @@
+import 'package:belajar_flutter_unit_2/discover_page.dart';
 import 'package:flutter/material.dart';
 import 'package:belajar_flutter_unit_2/home_page.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Belajar Flutter",
-      home: HomePage(),
+      home: DiscoverPage(),
     );
   }
 }
