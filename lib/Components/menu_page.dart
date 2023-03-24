@@ -1,5 +1,3 @@
-// ignore_for_file: unused_import, prefer_const_literals_to_create_immutables, prefer_const_constructors
-
 import 'package:belajar_flutter_unit_2/Page/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

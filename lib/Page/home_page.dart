@@ -1,5 +1,3 @@
-// ignore_for_file: prefer_const_constructors, library_private_types_in_public_api, prefer_const_literals_to_create_immutables
-
 import 'package:belajar_flutter_unit_2/Components/best_agents_item.dart';
 import 'package:belajar_flutter_unit_2/Components/circleItem.dart';
 import 'package:belajar_flutter_unit_2/Components/cities.dart';
