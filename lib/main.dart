@@ -1,4 +1,4 @@
-import 'package:belajar_flutter_unit_2/Page/home_page.dart';
+import 'package:belajar_flutter_unit_2/widgets/menu.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -7,16 +7,12 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Hotel',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const Homepage(),
+      title: "Belajar Flutter",
+      home: Menu(),
     );
   }
 }
