@@ -202,7 +202,7 @@ class _HomepageState extends State<Homepage> {
                   width: 15,
                 ),
                 staffPicksItem(
-                    gambar: Image.asset("assets/images/image_6.png"),
+                    gambar: Image.asset("assets/images/image_7.png"),
                     title: "Inn Parapat",
                     height: "800 sq ft.",
                     fee: "\$559"),
@@ -210,7 +210,7 @@ class _HomepageState extends State<Homepage> {
                   width: 15,
                 ),
                 staffPicksItem(
-                    gambar: Image.asset("assets/images/image_6.png"),
+                    gambar: Image.asset("assets/images/image_8.png"),
                     title: "Arman Village",
                     height: "0 sq ft.",
                     fee: "\$499"),
@@ -243,42 +243,42 @@ class _HomepageState extends State<Homepage> {
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_71.png"),
-                      name: "Abili",
+                      name: "Satthu",
                       value: 190),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_73.png"),
-                      name: "Andika",
+                      name: "Luph",
                       value: 123),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_75.png"),
-                      name: "Syahlan",
+                      name: "Isy Mana",
                       value: 111),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_71.png"),
-                      name: "Ihsan",
+                      name: "Amar",
                       value: 450),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_73.png"),
-                      name: "Ghaza",
+                      name: "Muzni",
                       value: 250),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_75.png"),
-                      name: "Ghaza2",
+                      name: "Nina",
                       value: 25),
                   SizedBox(
                     width: 15,
@@ -332,14 +332,14 @@ class _HomepageState extends State<Homepage> {
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_9.png"),
-                            title: "Pulau Banyak",
+                            title: "Banda Aceh",
                             value: 8300),
                         SizedBox(
                           height: 15,
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_8.png"),
-                            title: "Singkil",
+                            title: "Medan",
                             value: 55),
                         SizedBox(
                           height: 15,
